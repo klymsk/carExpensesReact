@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/carExpensesReact/static/css/main.629f02ec.css",
-    "main.js": "/carExpensesReact/static/js/main.f8a2bc5f.js",
+    "main.css": "/carExpensesReact/static/css/main.851657f9.css",
+    "main.js": "/carExpensesReact/static/js/main.d66aea17.js",
     "static/media/loginPorsche.png": "/carExpensesReact/static/media/loginPorsche.f522069c47c6b4ea4c3b.png",
     "index.html": "/carExpensesReact/index.html",
-    "main.629f02ec.css.map": "/carExpensesReact/static/css/main.629f02ec.css.map",
-    "main.f8a2bc5f.js.map": "/carExpensesReact/static/js/main.f8a2bc5f.js.map"
+    "main.851657f9.css.map": "/carExpensesReact/static/css/main.851657f9.css.map",
+    "main.d66aea17.js.map": "/carExpensesReact/static/js/main.d66aea17.js.map"
   },
   "entrypoints": [
-    "static/css/main.629f02ec.css",
-    "static/js/main.f8a2bc5f.js"
+    "static/css/main.851657f9.css",
+    "static/js/main.d66aea17.js"
   ]
 }
